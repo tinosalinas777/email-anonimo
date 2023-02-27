@@ -1,0 +1,5 @@
+body {
+    background-image: ("/fondo.jpg");
+    background-size: contain;
+    background-repeat: no-repeat;
+}
